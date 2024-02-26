@@ -1,0 +1,57 @@
+---
+tags:
+  - "#draft"
+---
+- Home
+- Getting Started
+	- Introduction
+	- Install Text Generator Plugin
+	- LLM Providers
+		- OpenAI
+		- Mistral
+		- Anthropic
+		- HuggingFace
+		- ...
+- Tutorials
+	- Why use a LLM ?
+	- First prompt
+	- First Template
+	- Templates combinations
+	- ...
+- Templates
+	- Introduction
+	- Context
+	- Metadata
+	- Handlebar Templates
+	- Javascript Templates
+	- Extract Helpers
+	- Run Helpers
+	- Custom Forms
+- Commands
+	- Code Blocks
+	- Generate Text
+	- Slash Commands
+	- Auto-suggest
+	- 
+	- Batch Template
+	- Convert to Template
+	- Estimate Tokens
+- Tools
+	- Template Playground
+	- Template Dedicated window
+	- Content Extractor Tool
+- Settings
+	- Advanced Settings
+	- Default model parameters
+	- Custom Instructions
+	- Enable/Disable extractors
+	- Whisper Settings
+	- Enable/Disable features
+- Community Prompts
+	- Template Package Manager
+	- Sharing and Publishing
+- Additional resources
+	- Models costs and rate limits
+	- Use Text Generator into another plugins
+	- Alternatives
+	  
